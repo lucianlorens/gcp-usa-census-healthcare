@@ -1,0 +1,35 @@
+Descrição
+Agora a etapa é de desafios para que você possa mostrar suas habilidades técnicas. Divirta-se na execução de cada tarefa e qualquer dúvida pode comunicar com a gente.
+
+1. Desafio: 
+
+Essa tarefa consiste em duas etapas. 
+Primeiro você vai se conectar a uma API pública e fazer a extração dos dados. 
+Os dados devem ser salvos após o request. 
+Em seguida, será necessário fazer um tratamento de sua escolha destes dados para consumo de uma equipe de BI.
+
+Pré requisitos mínimos:
+Extração deve ser feita utilizando a linguagem Python;
+Dados tem que ser salvos após o request;
+É necessário que o dado de consumo final fique em local distinto do extraído diretamente da API.
+
+Para realizar essa tarefa você precisa utilizar o google cloud. Você pode criar uma conta trial do google cloud que possui cerca de $300 de graça por 3 meses.
+
+A API que você deve se conectar está no link a seguir:
+https://www.census.gov/data/developers/data-sets/Health-Insurance-Statistics.html
+
+Os campos mínimos que você deve consultar são os seguintes:
+NAME,RACECAT,RACE_DESC,SEXCAT,SEX_DESC,NIC_PT,NUI_PT,NIC_UB90,NUI_LB90
+
+Dicas:
+Você pode inferir um escopo do trabalho da equipe de BI para o seu trabalho.
+A normalização da tabela é sempre bem vinda.
+
+Vamos avaliar:
+Estratégias utilizadas para armazenamento do dado
+Clareza do código
+Custo benefício da solução  
+
+Prazo de 7 dias para a conclusão total. Se concluir antes ou precisar de alguma informação a mais, fique a vontade de mandar um email para conversarmos.
+
+Obrigada e divirta-se, porque é o mais importante!!
